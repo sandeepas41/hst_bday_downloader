@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Downloaded data (too large for git)
+dumps/
+hst_bday_dumps/
+hst_bday_dumps.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
